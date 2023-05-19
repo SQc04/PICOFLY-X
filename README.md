@@ -8,4 +8,4 @@ This development board is modified according to Raspberry PI rp2040 zero, adapte
 
 Version 1.0 is being validated
 ======================================
-![image](https://github.com/SQc04/PICOFLY-X/assets/47497442/34788cdf-b6d5-4740-ac65-850a53039257)
+![image](https://github.com/SQc04/PICOFLY-X/assets/47497442/df57c8d5-f0a2-474b-8552-f25c68ba6e66)
