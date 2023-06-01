@@ -6,6 +6,7 @@ This development board is modified according to Raspberry PI rp2040 zero, adapte
 ![image](https://user-images.githubusercontent.com/47497442/236421064-59faa7c7-7674-4bff-82aa-c9342f2262ea.png)
 ======================================
 
-Version 1.0 is being validated
+Version 1.0
 ======================================
 ![image](https://github.com/SQc04/PICOFLY-X/assets/47497442/df57c8d5-f0a2-474b-8552-f25c68ba6e66)
+![SMT Installation Guide V1 0](https://github.com/SQc04/PICOFLY-X/assets/47497442/54dab4e7-6bb1-4586-a68a-6a190283fdf9)
