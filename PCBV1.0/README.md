@@ -1,3 +1,7 @@
+PICOFLY ИX module (verified)
+Use easyeda PRO
+https://easyeda.com/
+
 COMEING SOOOOOOOOON！
 UPDATE V1.0 board
 
